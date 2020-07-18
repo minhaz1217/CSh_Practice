@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\bin\Debug\CSh_Practice.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\bin\Debug\CSh_Practice.exe
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\bin\Debug\CSh_Practice.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\obj\Debug\CSh_Practice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\obj\Debug\CSh_Practice.exe
+c:\users\user\documents\visual studio 2013\Projects\CSh_Practice\CSh_Practice\obj\Debug\CSh_Practice.pdb
