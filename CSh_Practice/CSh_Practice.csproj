@@ -45,6 +45,9 @@
     <Compile Include="Practice\02_Deligate_01.cs" />
     <Compile Include="Practice\03_Enumeration_01.cs" />
     <Compile Include="Practice\04_Events_01.cs" />
+    <Compile Include="Practice\04_Evvents_02_with_data.cs" />
+    <Compile Include="Practice\05_Exceptions_01.cs" />
+    <Compile Include="Practice\05_Exceptions_02_custom_exception.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

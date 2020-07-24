@@ -17,6 +17,7 @@ namespace CSh_Practice.Practice
         public Counter(int passedThreshhold)
         {
             this.threshhold = passedThreshhold;
+            this.total = 0;
         }
         public void Add(int x)
         {
@@ -50,7 +51,7 @@ namespace CSh_Practice.Practice
         public static void Run() 
         {
 
-            Counter c = new Counter(new Random().Next(5));
+            Counter c = new Counter(5);
             //c.ThresholdReached += c_ThresholdReached;
             Console.WriteLine("Current Total is {0}", c.getTotal());
             Console.WriteLine("Enter 'a' to increase total: ");
@@ -59,7 +60,10 @@ namespace CSh_Practice.Practice
                 Console.WriteLine("Adding One {0}", c.getTotal());
                 c.Add(1);
             }
-            Console.ReadKey();
+            Console.WriteLine("HI");
+            //Console.Clear();
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
